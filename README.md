@@ -43,4 +43,4 @@ The purpose of this analysis is to use create a binary classifier that is capabl
 
 
 ## Summary
-This model was able to reach 78% accuracy rating. Perhaps removing additional uncessary columns would increase that even more.
+This model was able to reach 79% accuracy rating. Perhaps removing additional uncessary columns would increase that even more.
